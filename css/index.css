@@ -241,3 +241,10 @@ body {
   padding: 2% 0;
   text-align: left;
 }
+.main footer {
+  padding-top: 1rem;
+  background: darkgray;
+  padding-bottom: 2rem;
+  text-align: center;
+  color: white;
+}
