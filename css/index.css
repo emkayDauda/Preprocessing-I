@@ -162,3 +162,11 @@ body {
   width: 300px;
   border-radius: 10px;
 }
+.main .top-section h1 {
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}
+.main .top-section h5 {
+  font-size: 1.2rem;
+  margin: 0.7rem 0;
+}
