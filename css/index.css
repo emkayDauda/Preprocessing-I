@@ -187,3 +187,10 @@ body {
   font-family: bold;
   margin: 2rem 0;
 }
+.main .middle-content {
+  display: flex;
+  justify-content: space-between;
+}
+.main .middle-content div {
+  width: 48%;
+}
