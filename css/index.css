@@ -214,3 +214,30 @@ body {
 .main .middle-content div > p {
   margin-top: 1rem;
 }
+.main .bottom-section {
+  margin-top: 2rem;
+}
+.main .bottom-section h1 {
+  font-size: 2rem;
+}
+.main .bottom-section table {
+  width: 100%;
+  margin-top: 0.8rem;
+  margin-bottom: 2rem;
+}
+.main .bottom-section table tr {
+  border-top: 1px solid darkgray;
+  border-bottom: 1px solid dimgray;
+}
+.main .bottom-section table tr:nth-child(even) {
+  background-color: silver;
+}
+.main .bottom-section table tr td {
+  width: 25%;
+  padding: 2% 0;
+}
+.main .bottom-section table th {
+  font-family: bold;
+  padding: 2% 0;
+  text-align: left;
+}
