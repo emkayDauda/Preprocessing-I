@@ -168,5 +168,22 @@ body {
 }
 .main .top-section h5 {
   font-size: 1.2rem;
-  margin: 0.7rem 0;
+  margin: 1.5rem 0;
+}
+.main .top-section .intro-section {
+  border-top: 1px solid gray;
+  padding: 2rem 0;
+}
+.main .top-section p {
+  line-height: 1.3rem;
+}
+.main .top-section button {
+  border-radius: 4px;
+  background: darkgray;
+  border: none;
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  color: white;
+  font-family: bold;
+  margin: 2rem 0;
 }
