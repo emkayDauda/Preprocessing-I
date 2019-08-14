@@ -181,7 +181,11 @@ body {
 .main .top-section p {
   line-height: 1.3rem;
 }
-.main .top-section button {
+.main .top-section a {
+  text-decoration: none;
+  color: white;
+}
+.main .top-section a button {
   border-radius: 4px;
   background: darkgray;
   border: none;
@@ -190,6 +194,13 @@ body {
   color: white;
   font-family: bold;
   margin: 2rem 0;
+  transition: 0.3s ease-in-out;
+}
+.main .top-section a button:hover {
+  letter-spacing: 0.1rem;
+  transition: 0.3s ease-in-out;
+  background: green;
+  padding: 1rem;
 }
 .main .middle-content {
   display: flex;
