@@ -198,3 +198,10 @@ body {
 .main .middle-content div {
   width: 48%;
 }
+.main .middle-content table {
+  height: 100%;
+}
+.main .middle-content td {
+  border: 1px solid #ddd;
+  height: 10%;
+}
