@@ -157,3 +157,8 @@ body {
   border-radius: 9px;
   padding: 3rem 2rem;
 }
+.main .top-section img {
+  height: 350px;
+  width: 300px;
+  border-radius: 10px;
+}
