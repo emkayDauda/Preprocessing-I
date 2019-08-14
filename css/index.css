@@ -141,3 +141,14 @@ body {
   padding-top: 2rem;
   padding-bottom: 1.5rem;
 }
+.main nav a {
+  margin-left: 2rem;
+  text-decoration: none;
+  color: black;
+  transition: 0.1s ease-in-out;
+}
+.main nav a:hover {
+  color: silver;
+  transition: 0.1s ease-in-out;
+  letter-spacing: 0.1rem;
+}
