@@ -199,9 +199,18 @@ body {
   width: 48%;
 }
 .main .middle-content table {
-  height: 100%;
+  height: 80%;
+  border: 1px solid #ddd;
 }
 .main .middle-content td {
   border: 1px solid #ddd;
   height: 10%;
+}
+.main .middle-content h1 {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.main .middle-content div > p {
+  margin-top: 1rem;
 }
