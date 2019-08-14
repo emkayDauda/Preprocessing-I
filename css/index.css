@@ -152,3 +152,8 @@ body {
   transition: 0.1s ease-in-out;
   letter-spacing: 0.1rem;
 }
+.main .top-section {
+  background: lightgrey;
+  border-radius: 9px;
+  padding: 3rem 2rem;
+}
